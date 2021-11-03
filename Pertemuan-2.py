@@ -71,13 +71,13 @@
 # else:
 #     print("a is smaller than b")
 
-# Logic Level
-exp = 3
-lev = 1
+# # Logic Level
+# exp = 3
+# lev = 1
 
-if exp >= 3 and lev == 2:
-    print("Recommended salary is Rp9.000.000");
-elif exp <= 3 and lev == 2:
-    print("Recommended salary is Rp7.000.000");
-else:
-    print("Recommended salary is Rp5.000.000")
+# if exp >= 3 and lev == 2:
+#     print("Recommended salary is Rp9.000.000");
+# elif exp <= 3 and lev == 2:
+#     print("Recommended salary is Rp7.000.000");
+# else:
+#     print("Recommended salary is Rp5.000.000")
