@@ -1,4 +1,4 @@
-nama_buah=["apel","jeruk","mangga","lemon","salak"]
+# nama_buah=["apel","jeruk","mangga","lemon","salak"]
 # print(nama_buah[0])
 # print(nama_buah[1])
 # print(nama_buah[2])
